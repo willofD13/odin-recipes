@@ -3,3 +3,10 @@ h1 {
     text-align: center;
     background-color: hsla(241, 86%, 38%, 0.466);
     }
+
+    a {
+        font-style: italic;
+        font-size: x-large;
+        color: rgb(255, 150, 20);
+        background-color: hsl(241, 88%, 28%);
+    }
